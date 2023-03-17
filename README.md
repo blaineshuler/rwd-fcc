@@ -1,1 +1,1 @@
-# Resonsive Web Design Cert 
+# Resonsive Web Design Certification
